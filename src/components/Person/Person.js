@@ -1,10 +1,10 @@
-import React from 'react';
+// import React from 'react';
 import './Person.css';
 
 function Person() {
-   return (
-      'test'
-   );
+  return (
+    'test'
+  );
 }
 
 export default Person;

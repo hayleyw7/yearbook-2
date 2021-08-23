@@ -3,9 +3,9 @@ import Person from '../Person/Person';
 import './Cohort.css';
 
 function Cohort() {
-   return (
-      'test'
-   );
+  return (
+    <Person />
+  );
 }
 
 export default Cohort;
