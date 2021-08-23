@@ -1,1 +1,10 @@
+section {
+  background: white;
+  width: 15rem;
+  padding: 1rem;
+  margin: 1rem;
+}
 
+img {
+  height: 10rem;
+}
