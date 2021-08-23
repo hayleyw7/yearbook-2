@@ -14,3 +14,15 @@ img {
   flex-wrap: wrap;
   justify-content: center;
 }
+
+h2 {
+  color: orange;
+}
+
+.likes {
+  font-style: italic;
+}
+
+.trait {
+  color: blue;
+}
