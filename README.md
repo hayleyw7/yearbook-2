@@ -50,7 +50,7 @@ The page will open in your browser. You will then be able to view all cards.
 
 ## Screenshot
 
-![yearbook](./yearbook.png)  -->
+![yearbook](./yearbook.png)
 
 ## Contributors
 
