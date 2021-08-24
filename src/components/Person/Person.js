@@ -26,7 +26,7 @@ function Person() {
         <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXbjKS85HJ7rTbDalHPJ9lI2Zf-rkW_9QKw&usqp=CAU'></img>
         <h2>Fish</h2>
         <p class='likes'>likes swimming</p>
-        <p class='trait'>SUCH BLUB BLUB BLUG</p>
+        <p class='trait'>BLUB BLUB BLUB</p>
       </section>
     </div>
   );
