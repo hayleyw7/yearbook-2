@@ -48,9 +48,9 @@ Enter the following command in the Terminal:
 
 The page will open in your browser. You will then be able to view all cards.
 
-<!-- ## Screenshot
+## Screenshot
 
-![dashboard gif](./src/images/dashboard.gif)  -->
+![yearbook](./yearbook.png)  -->
 
 ## Contributors
 
