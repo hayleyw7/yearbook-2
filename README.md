@@ -1,51 +1,59 @@
-# Turing Yearbook
+# Yearbook
 
-This application was built with `create-react-app`.
+This application shows images of animals with information underneath them. It's a mini-project made in a few hours to learn React.
 
-### Set Up
+## Motivation and rubric
 
-Clone down this repo.
+This project was completed as a project at Turing School of Software & Design during Module 3.
 
-Because you don't want to be pushing your updates to this boilerplate repository, we're going to have to do a few things to get set up with your own repository.
+[The rubric is linked here.](https://frontend.turing.edu/projects/module-3/turing-yearbook.html)
 
-1. On GitHub, create a new, empty repository and name it something like 'turing-yearbook'.
-2. Update the current remote (called "origin") so that it points at the URL of the repository you just created on GitHub. Read how to do this [here](https://help.github.com/en/articles/changing-a-remotes-url).
-3. Once you've updated the remote, you should run `npm install`, commit, and then push your initial commit to your personal repository. You will need to use the `-u` flag when you push (like this: `git push -u origin main`).
-4. Run `npm start` to start up your React server. (You will see errors!)
+The goals are developing some muscle memory in building out simple React components and passing data down as props.
 
-### Expectations / Rules
+## Reflections
 
-Build a React App that displays Turing front-end staff!
+It was fun to learn React. This is going to be quite useful.
 
-![turing yearbook screenshot](https://raw.githubusercontent.com/turingschool-examples/yearbook/main/screenshot.png)
+## Languages and technology
 
-We want to see good commit habits - atomic commits that log small, focused changesets.
+Written in JavaScript, CSS, & JSX
 
+Utilizes NPM, & React
 
-### Iteration 0
+Built with Visual Studio Code
 
-Get set up (per the instructions above)!
+[Code stored on GitHub](https://github.com/hayleyw7/yearbook-2)
 
-We've provided a boilerplate for you to work with. Look through the file structure to get a sense of the app.
+## Repository install and setup
 
-Notice that we have multiple stylesheets - one for each component. You are welcome to style this application however you'd like. We got you started with a little styling, but feel free to get creative. (Remember, though - most of your energy should be spent on learning React, not styling.)
+### Clone project repository
 
-### Iteration 1
+Enter the following command in the Terminal:
+`git clone https://github.com/hayleyw7/yearbook-2.git`
 
-Create a Cohort component, which will act as a container that renders each of our Person cards. For now, the Cohort being displayed will be "Staff". Figure out how to pass information from `App.js` to `Cohort.js`!
+### Navigate to folder
 
-Then create a Person component. Each Person card will display: the image, the name, the quote, and the superlative (see the screenshot above for an idea).
+Enter the following command in the Terminal:
+`cd yearbook-2`
 
-In your Cohort component, create Person cards that have the information each needs to display properly.
+### Install dependencies
 
-### Iteration 2
+Enter the following command in the Terminal:
+`npm install`
 
-In the `yearbook-data.js` file, un-comment-out the "students" information. Get that information displaying, too. How can you reuse components?
+## Access and use website
 
-Then create a controlled component that allows a user to add a new student.
+Enter the following command in the Terminal:
+`npm start`
 
-### Iteration 3 (optional extension - do not attempt until iterations 0 - 2 are completed)
+The page will open in your browser. You will then be able to view all cards.
 
-Add in the functionality so that a user can click and edit a student's information.  A user should be able to update the name, quote, and superlative.  
+<!-- ## Screenshot
 
-Lastly, add a delete button on each card that allowers a user to remove students that are no longer attending.
+![dashboard gif](./src/images/dashboard.gif)  -->
+
+## Contributors
+
+Project completed by [Hayley Witherell](https://github.com/hayleyw7)
+
+Project designed by [Travis Rollins](https://github.com/Kalikoze) & [Leta Keane](https://github.com/letakeane)
